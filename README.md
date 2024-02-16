@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReptilianRex6
+- 👋 Hi, I’m Ethan Bennett!
 - 👀 I’m interested in Jesus, Building Computers, Gaming, Pokemon cards, Hunting, Fishing, Brazilian Jiu-Jitsu, and anything intersting!
 - 🌱 I’m currently learning Python, AI, and Machine Learning
 - 💞️ I’m looking to collaborate on ...
