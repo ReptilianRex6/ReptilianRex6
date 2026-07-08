@@ -1,51 +1,59 @@
 # 👋 Hi, I'm Ethan!
 
-I'm an AI Developer at Lava Studios, passionate about building powerful tools that blend generative AI, cloud infrastructure, and real-world usefulness. I transitioned into tech from the machining world, and now I’m focused on turning creative ideas into working software.
+I'm an AI Developer and technical contributor at Lava Studios, where I help build tools that combine generative AI, cloud infrastructure, and practical software. I came into tech from the machining world, so I really enjoy building things that are not just interesting, but actually useful.
 
 ---
 
 ## 💼 What I Do
 
-- 🧠 **AI & ML** — Integrating generative AI (OpenAI, Leonardo, Luma, etc.) into real apps.
-- ☁️ **Cloud** — Building and deploying backend systems using **Firebase**, **GCP**, and **AWS**.
-- 💻 **Frontend** — Working with **FlutterFlow** to create user-friendly UIs (still leveling up here).
-- 🛠️ **Python Dev** — Flask APIs, Firestore integrations, logging, and automation.
+* 🧠 **AI Integration** — Connecting generative AI tools like OpenAI, Leonardo, Luma, Replicate, and more into real applications.
+* ☁️ **Cloud & Backend** — Building backend systems with **Firebase**, **Google Cloud Platform**, Firestore, Cloud Run, and serverless APIs.
+* 🚀 **Deployment & DevOps** — Working with **Docker**, containerized services, GitHub-based CI/CD pipelines, and cloud deployments.
+* 🛠️ **Python Development** — Creating Flask APIs, webhook handlers, automation tools, logging systems, and cloud integrations.
+* 🎨 **App Building** — Working with FlutterFlow and Firebase to help turn ideas into functional user-facing products.
 
 ---
 
 ## 🌟 Projects I'm Proud Of
 
-- **AI Image & Video App**: Multi-API content generator using Firebase + FlutterFlow.
-- **Tool Recommendation Assistant**: SMS-based AI tool for machinists, built with Twilio + Flask.
-- **Event Ticket Calculator**: Built with Python and FlutterFlow for clean UI and logic.
+* **AI Image & Video Platform**
+  Helped build a multi-provider generative AI app using Firebase, FlutterFlow, Google Cloud, Docker, CI/CD pipelines, and several AI APIs.
+
+* **Tool Recommendation Assistant**
+  Built an SMS-based assistant for machinists using Twilio, Flask, and AI-powered recommendations.
+
+* **Event Ticket Calculator**
+  Created a Python-powered calculator with a clean FlutterFlow interface for simple event pricing logic.
 
 ---
 
 ## 📚 Currently Learning
 
-- 🏗️ Full-stack best practices (with a focus on frontend frameworks)
-- 📜 JavaScript & TypeScript
-- ☁️ AWS & GCP certifications
-- 🧪 Improving test coverage and error handling
+* 🏗️ Full-stack architecture and production-ready app design
+* ☁️ Deeper Google Cloud, Firebase, and Cloud Run best practices
+* 🚀 CI/CD, Docker workflows, and cleaner deployment patterns
+* 🧪 Better testing, logging, and error handling
+* 🤖 Machine learning, neural networks, and practical AI engineering
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🇨🇱 Returned missionary (Chile)
-- 🥋 Active in Brazilian Jiu-Jitsu
-- 🎮 Gamer & tech tinkerer
+* 🇨🇱 Returned missionary in Chile
+* 🥋 Brazilian Jiu-Jitsu practitioner
+* 🎮 Gamer, builder, and tech tinkerer
+* 🛠️ Former machinist turned AI developer
 
 ---
 
 ## 📫 Reach Out
 
-Want to collaborate, ask questions, or just talk tech?
-- [LinkedIn](www.linkedin.com/in/ethan-bennett-7599742a1)
-- ethanbennett136@gmail.com
+Want to collaborate, ask questions, or talk tech?
 
+* [LinkedIn](https://www.linkedin.com/in/ethan-bennett-7599742a1)
+* [ethanbennett136@gmail.com](mailto:ethanbennett136@gmail.com)
 
 <!---
-ReptilianRex6/ReptilianRex6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ReptilianRex6/ReptilianRex6 is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
